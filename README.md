@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
  <div>
-   <a href="https://github.com/SeikooD">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeikooD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeikooD&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/seikood">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seikood&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seikood&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
