@@ -1,23 +1,28 @@
-## Bem-vindo(a) ao meu perfil 😁
 
- <div>
-   <a href="https://github.com/seikood">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seikood&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seikood&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:amandamariscalroque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amandamariscalroque" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+# SeikooD
+
+**Programe Comigo**
+
+[![GitHub](https://img.shields.io/badge/GitHbt-pink?style=for-the-badge&logo=github&logoColor=black)](+https://github.com/SeikooD)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/amandamarisdcalroque/)
+
+[![Reddit](https://img.shields.io/badge/Reddit-pink?style=for-the-badge&logo=reddit&logoColor=black)](https://www.reddit.com/u/seikoo_uwu)
+
+**Habilidades**
+
+![HTML5](https://img.shields.io/badge/HTML5-pink?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-pink?style=for-the-badge&logo=css3&logoColor=264CE4)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript)
+
+----
+*Stats:*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeikooD&theme=transparent&bg_color=pink&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=black)
+
+*O que eu mais uso:*
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SeikooD&bg_color=pink&border_color=30A3DC&title_color=E94D5F&text_color=black)
+
